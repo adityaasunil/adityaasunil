@@ -95,16 +95,18 @@ Custom MAE-ViT pipeline trained on retinal images (384×384).
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaasunil&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-aditya.vercel.app/api?username=adityaasunil&show_icons=true&theme=radical" alt="Aditya's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adityaasunil&theme=radical" />
+  <img src="https://github-readme-stats-aditya.vercel.app/api/top-langs/?username=adityaasunil&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaasunil&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-aditya.vercel.app/api?username=adityaasunil&theme=radical&count_private=true&include_all_commits=true&hide=contribs" style="visibility:hidden;" />
 </p>
 
 ---
