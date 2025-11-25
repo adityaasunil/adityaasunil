@@ -104,10 +104,6 @@ Custom MAE-ViT pipeline trained on retinal images (384×384).
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaasunil&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats-aditya.vercel.app/?user=adityaasunil&theme=radical" alt="GitHub Streak" />
 </p>
 
