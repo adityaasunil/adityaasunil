@@ -96,15 +96,15 @@ Custom MAE-ViT pipeline trained on retinal images (384×384).
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaasunil&show_icons=true&theme=radical" alt="Aditya's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaasunil&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaasunil&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=adityaasunil&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaasunil&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaasunil&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -119,4 +119,4 @@ Custom MAE-ViT pipeline trained on retinal images (384×384).
 
 ---
 
-⭐ _“Biology × Code × Curiosity”_  
+⭐ _Biology × Code × Curiosity_  
